@@ -3,7 +3,7 @@
 ## ingredients
 
 - 2 avocado  
-- 1 lemon  
+- 1 lime  
 - salt  
 - pepper  
 - chili
